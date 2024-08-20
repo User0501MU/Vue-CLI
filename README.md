@@ -3,7 +3,9 @@
 Springboot、STS上でVue.jsを使う
 
 本書②：Vueプロジェクトをディレクトリ内に格納する
-Vue CLIをインストールする
+Vue CLIをインストールする※Vue.jsを使うにはNode.jsのインストールが必要であった。
+
+
 ～～～～～～～～～～～～～～～～～～～～～～
 コマンドプロンプトでVue CLI のバージョンを確認する
 vue –versionではなくvue --version

@@ -7,6 +7,8 @@ Vue CLIをインストールする※Vue.jsを使うにはNode.jsのインスト
 
 
 ～～～～～～～～～～～～～～～～～～～～～～
+
+
 コマンドプロンプトでVue CLI のバージョンを確認する
 vue –versionではなくvue --version
 @vue/cli 5.0.8

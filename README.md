@@ -22,5 +22,5 @@ Vueプロジェクトを作成する
 
 ③コマンドプロンプトでvue-sample直下へ移動します。
 C:\Users\任意user\Documents\workspace0701\sample_project\vue-sample
-④移動したら、以下のコマンドを入力しlocalhost:8081」にアクセス
-npm run serve
+④移動したら、以下のコマンド「npm run serve」を入力し「localhost:8081」にアクセス
+

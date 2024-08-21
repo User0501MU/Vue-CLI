@@ -28,3 +28,8 @@ C:\Users\任意user\Documents\workspace0701\sample_project\vue-sample
 ・SQLユーザー情報登録をして、MYSQLからVue.jsで情報を呼び出す
 「INSERT INTO sample_project (id,hobby,user_name) VALUES (1, "baseball","Tom");
 SELECT*FROM テーブル名;
+
+ビルド：する際はコマンドプロンプトでVue.jsのディレクトリ先まで移動してから実行する
+※STSプロジェクトを停止状態で行う
+cd C:\Users\ユーザー名任意\Documents\workspace0701\sample_project\vue-sample
+npm run build

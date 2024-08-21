@@ -25,6 +25,8 @@ C:\Users\任意user\Documents\workspace0701\sample_project\vue-sample
 ④移動したら、以下のコマンド「npm run serve」を入力し「localhost:8081」にアクセス
 
 ～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～
+
+
 ・SQLユーザー情報登録をして、MYSQLからVue.jsで情報を呼び出す
 「INSERT INTO sample_project (id,hobby,user_name) VALUES (1, "baseball","Tom");
 SELECT*FROM テーブル名;

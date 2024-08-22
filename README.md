@@ -1,3 +1,4 @@
+※vue.js画面表示まで〆
 参考先：https://yoshida-no-atama.com/java-vue-mysql/
 
 Springboot、STS上でVue.jsを使う
